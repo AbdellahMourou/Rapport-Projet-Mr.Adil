@@ -2,9 +2,9 @@
 
 Boujour Mr.ADIL CHAHBOUN
 --- 
-voila  les codes que j'ai réalisé.
+Voila  les codes que j'ai réalisé :
 ---
-premièrement le code de Coefficient de corrélation de Kendall.
+Premièrement le code de Coefficient de corrélation de Kendall.
 ---
 En suit le code de Fuzzy C-Mean. 
 ---
