@@ -9,7 +9,7 @@ puit  jour ensoleillé.
 en fin jour pluvieux .
 der5 : data5
 der10 : data10
-pour Data globale C'est dans le lien suivant :
+pour Data globale, data5, data10 C'est dans le lien suivant :
 ```
 
 https://drive.google.com/drive/folders/1uH23XBM15Sx3OgnciWNNvCDdZ8vwk-i9?usp=sharing
